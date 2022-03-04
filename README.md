@@ -12,6 +12,7 @@
 将下载的Intel NUC10 Hackintosh EFI覆盖U盘启动盘的EFI
 ### 4.修改BIOS配置
 -SATA Mode Selection -> AHCI #开启AHCI高级磁盘模式
+
 -Secure Boot -> Disabled #禁用安全启动
 ### 5.将U盘插入电脑并启动安装Mac OS系统
 ### 6.下载OpenCore EFI等工具优化Hackintosh EFI 配置
